@@ -4,7 +4,7 @@
 
 - 🔥 Software Engineer. I am enthusiastic about the best web and mobile development technologies.
 
-<!-- - 🔭 I’m currently working at [MJV Technology & Innovation](https://www.mjvinnovation.com) -->
+- 🔭 I’m currently working at [OmniChat](https://omni.chat)
 
 - ⚡ Some technologies I use in my daily life: Angular, Ionic, RxJS, NGXS, TypeScript, Angular Material, HTML5, CSS3 (Sass), Javascript (ES6), React, Next.js, Node.js, NestJs, API's RESTful, MYSQL, MongoDB, Docker, Git, Scrum.
 
@@ -33,10 +33,6 @@
 ## Contact
 
 <p align="left">
-  <a href="https://linkedin.com/in/genesson" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-genesson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/genssauer" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-genssauer-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
+  <a href="https://linkedin.com/in/genesson" target="_blank"><img align="center" src="https://img.shields.io/badge/-genesson-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
+  <a href="https://instagram.com/genssauer" target="_blank"><img align="center" src="https://img.shields.io/badge/-genssauer-05122A?style=flat&logo=instagram" alt="instagram"/></a>
 </p>
