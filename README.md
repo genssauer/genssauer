@@ -8,9 +8,7 @@
 
 - ⚡ Some technologies I use in my daily life: Angular, Ionic, RxJS, NGXS, TypeScript, Angular Material, HTML5, CSS3 (Sass), Javascript (ES6), React, Next.js, Node.js, NestJs, API's RESTful, MYSQL, MongoDB, Docker, Git, Scrum.
 
-- 👨‍💻 More at [Linkedin](https://www.linkedin.com/in/genesson/)
-
-
+- 👨‍💻 More at <a href="https://www.linkedin.com/in/genesson/" target="_blank">LinkedIn</a>
 
 <br><br>
 
