@@ -34,5 +34,5 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/genesson" target="_blank"><img align="center" src="https://img.shields.io/badge/-genesson-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
-  <a href="https://instagram.com/genssauer" target="_blank"><img align="center" src="https://img.shields.io/badge/-genssauer-05122A?style=flat&logo=instagram" alt="instagram"/></a>
+  <a href="https://instagram.com/andreisauer_" target="_blank"><img align="center" src="https://img.shields.io/badge/-andreisauer_-05122A?style=flat&logo=instagram" alt="instagram"/></a>
 </p>
