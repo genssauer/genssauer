@@ -4,7 +4,7 @@
 
 - 🔥 Software Engineer. I am enthusiastic about the best web and mobile development technologies.
 
-- 🔭 I’m currently working at [OmniChat](https://omni.chat)
+- 🔭 I’m currently working at [V8.Tech](https://v8.tech/)
 
 - ⚡ Some technologies I use in my daily life: Angular, Ionic, RxJS, NGXS, TypeScript, Angular Material, HTML5, CSS3 (Sass), Javascript (ES6), React, Next.js, Node.js, NestJs, API's RESTful, MYSQL, MongoDB, Docker, Git, Scrum.
 
