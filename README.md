@@ -4,8 +4,6 @@
 
 - 🔥 Software Engineer. I am enthusiastic about the best web and mobile development technologies.
 
-- 🔭 I’m currently working at Itaú Unibanco [by CI&T](https://ciandt.com)
-
 - ⚡ Some technologies I use in my daily life: Angular, Ionic, RxJS, NGXS, TypeScript, Angular Material, HTML5, CSS3 (Sass), Javascript (ES6), React, Next.js, Node.js, NestJs, API's RESTful, MYSQL, MongoDB, Docker, Git, Scrum.
 
 - 👨‍💻 More at <a href="https://www.linkedin.com/in/genesson/" target="_blank">LinkedIn</a>
